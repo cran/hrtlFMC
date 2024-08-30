@@ -1,0 +1,3 @@
+import(FMC)
+importFrom("stats", "poly")
+export(minimal_hrtlf)
